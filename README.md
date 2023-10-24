@@ -3,7 +3,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Shriram-11&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shriram-11&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
 
 - 🔭 I’m currently working on **a project management system for efficient machine servicing and report generation, optimizing maintenance processes**
