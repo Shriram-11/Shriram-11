@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shriram Naik</h1>
-<h3 align="center">Python wrangler by day, machine learning apprentice by night, and a bug whisperer in the making. Debugging code one print statement at a time!</h3>
+<h3 align="center">Python wrangler by day, machine learning apprentice by night, and a bug whisperer in the making.</h3>
 
 ## 🏆 GitHub Trophies
 
