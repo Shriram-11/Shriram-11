@@ -20,7 +20,7 @@ An introvert by nature, I find solace in the thrill of motorsports and the logic
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shriram-11&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriram-11&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-[![Shriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriram-11)](https://github.com//anuraghazra/github-readme-stats)
+[![Shriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriram-11)](https://github.com//anuraghazra/github-readme-stats)]
 
 ## 🏆 GitHub Trophies
 <div align="center">
